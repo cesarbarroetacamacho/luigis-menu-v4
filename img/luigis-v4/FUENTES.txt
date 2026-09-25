@@ -1,0 +1,53 @@
+Fuentes de las fotos de luigis-menu-v4.html
+Todas con licencia CC0 1.0 (dominio publico), verificadas via Openverse el 2026-09-25.
+Tratamiento aplicado: contraste +4% y vineta suave para fondo oscuro. Sin texto ni marcas de terceros.
+
+hamburguesas.jpg  ->  Hamburguesas (foto de categoria)
+  Titulo original: Hamburgers Buns
+  Autor: Niklas Rhöse
+  Fuente: stocksnap  |  Licencia: CC0  https://creativecommons.org/publicdomain/zero/1.0/
+  Pagina: https://stocksnap.io/photo/hamburgers-buns-FNX2GU2Y5P
+
+pollo-crujiente.jpg  ->  Pollo Crujiente
+  Titulo original: Ham Burger
+  Autor: Toronto Eaters
+  Fuente: stocksnap  |  Licencia: CC0  https://creativecommons.org/publicdomain/zero/1.0/
+  Pagina: https://stocksnap.io/photo/ham-burger-V4YOLPZM4X
+
+papas-fritas.jpg  ->  Papas Fritas
+  Titulo original: Free french fries image
+  Autor: sin atribucion
+  Fuente: rawpixel  |  Licencia: CC0  https://creativecommons.org/publicdomain/zero/1.0/
+  Pagina: https://www.rawpixel.com/image/5901512/free-french-fries-image-public-domain-cc0-photo
+
+merengada.jpg  ->  Merengada (chocolate)
+  Titulo original: None
+  Autor: sin atribucion
+  Fuente: rawpixel  |  Licencia: CC0  https://creativecommons.org/publicdomain/zero/1.0/
+  Pagina: https://www.rawpixel.com/image/5963065/free-public-domain-cc0-photo
+
+limonada.jpg  ->  Limonada con menta
+  Titulo original: Refreshing drink, summer beverage
+  Autor: sin atribucion
+  Fuente: rawpixel  |  Licencia: CC0  https://creativecommons.org/publicdomain/zero/1.0/
+  Pagina: https://www.rawpixel.com/image/6042738/photo-image-public-domain-free
+
+cerveza.jpg  ->  Cervezas (foto de subcategoria)
+  Titulo original: Beer Glass
+  Autor: sin atribucion
+  Fuente: rawpixel  |  Licencia: CC0  https://creativecommons.org/publicdomain/zero/1.0/
+  Pagina: https://www.rawpixel.com/image/5970212/beer-glass
+
+licores.jpg  ->  Licores y tragos (vaso con hielo)
+  Titulo original: Free whiskey glass ice cute
+  Autor: sin atribucion
+  Fuente: rawpixel  |  Licencia: CC0  https://creativecommons.org/publicdomain/zero/1.0/
+  Pagina: https://www.rawpixel.com/image/5911843/photo-image-public-domain-shape-wooden
+
+combo.jpg  ->  Combos (hamburguesa con papas)
+  Titulo original: Cheeseburger, Fries & Ketchup
+  Autor: sin atribucion
+  Fuente: rawpixel  |  Licencia: CC0  https://creativecommons.org/publicdomain/zero/1.0/
+  Pagina: https://www.rawpixel.com/image/5970025/cheeseburger-fries-ketchup
+
+og-luigis.jpg  ->  recorte 1200x630 de hamburguesas.jpg para Open Graph.
